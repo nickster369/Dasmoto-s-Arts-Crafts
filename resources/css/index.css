@@ -1,0 +1,36 @@
+* {
+  font-family: Helvetica;
+}
+header {
+  text-align: center;
+  background: url("../images/image_1.jpeg");
+  height: 125px;
+}
+
+header h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+}
+
+span b {
+  color: blue;
+}
+#itemOne h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+#itemTwo h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+#itemThree h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
